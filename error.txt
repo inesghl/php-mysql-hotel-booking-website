@@ -1,0 +1,1 @@
+Warning: Cannot modify header information - headers already sent by (output started at C:\Server\htdocs\server\00\server\marian\inc\header.php:100) in C:\Server\htdocs\server\00\server\marian\confirm.php on line 33
